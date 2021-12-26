@@ -1,0 +1,3 @@
+<configs>
+	<setattribute xpath="/npc/npc_info[@trader_id='8']" name="stance">Like</setattribute>
+</configs>
